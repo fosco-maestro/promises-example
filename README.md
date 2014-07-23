@@ -45,3 +45,7 @@ Output:
   { buildNumber: 3, commitHash: 'qwe' } ]
 ```
 
+## Articles with Examples
+
+- [http://www.joezimjs.com/javascript/patterns-asynchronous-programming-promises/](http://www.joezimjs.com/javascript/patterns-asynchronous-programming-promises/)
+- [https://coderwall.com/p/ijy61g](https://coderwall.com/p/ijy61g)
