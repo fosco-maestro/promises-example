@@ -1,0 +1,9 @@
+{
+    "name": "promises-example",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "underscore": "*",
+        "q": "1.0.1"
+    }
+}
